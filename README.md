@@ -6,6 +6,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![image](https://github.com/Hamza-EL-ACHHAB/Hamza-EL-ACHHAB-AWS-AppSync-Amplify-with-React-GraphQL/assets/101356307/16765767-2861-4c76-a14e-58e5fd68c28c)
 ![image](https://github.com/Hamza-EL-ACHHAB/Hamza-EL-ACHHAB-AWS-AppSync-Amplify-with-React-GraphQL/assets/101356307/d67ad8ef-c93e-47bf-9805-5ddd9d452063)
 ![image](https://github.com/Hamza-EL-ACHHAB/AWS-AppSync-Amplify-with-React-GraphQL/assets/101356307/4b1a1967-093e-4dab-9a0e-3a4a321bd34c)
+![image](https://github.com/Hamza-EL-ACHHAB/AWS-AppSync-Amplify-with-React-GraphQL/assets/101356307/04a7db7e-a7cf-4663-9907-1bda512244d7)
+
 
 
 
