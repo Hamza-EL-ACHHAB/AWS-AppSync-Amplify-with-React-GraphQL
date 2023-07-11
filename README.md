@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Progress made so far
+
+<span style="color:red;">I am able to fetch data from GraphQL API and set up the authentication </span>
+
 ![image](https://github.com/Hamza-EL-ACHHAB/Hamza-EL-ACHHAB-AWS-AppSync-Amplify-with-React-GraphQL/assets/101356307/16765767-2861-4c76-a14e-58e5fd68c28c)
 ![image](https://github.com/Hamza-EL-ACHHAB/Hamza-EL-ACHHAB-AWS-AppSync-Amplify-with-React-GraphQL/assets/101356307/d67ad8ef-c93e-47bf-9805-5ddd9d452063)
 
