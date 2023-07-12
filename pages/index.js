@@ -14,7 +14,7 @@ export default function Home() {
   }
   return (
     <div>
-      <h1 className="text-3xl font-bold underline">s s!</h1>
+      <h1 className="text-3xl font-bold underline">My Posts!</h1>
       {<p>{posts.map((post, index) => post.title)}</p>}
     </div>
   );

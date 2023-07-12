@@ -17,7 +17,7 @@ function Profile() {
     <div>
       <h1
         className="text-3xl font-semibold tracking-wide
-            mt-6"
+              mt-6"
       >
         Profile
       </h1>
